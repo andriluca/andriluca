@@ -10,7 +10,7 @@ custom Chaste [User
 Project](https://github.com/andriluca/NewbornAirwayGeneration)) the
 relative mechanical simulations performed on it.
 
-I want to thank Techres Lab for participating to this Project.
+I want to thank Techres Lab for allowing me to work on this Project.
 
 <!-- **andriluca/andriluca** is a ✨_special_ ✨ repository because
 its `README.md` (this file) appears on your GitHub profile.
